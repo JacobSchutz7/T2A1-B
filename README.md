@@ -1,7 +1,6 @@
 # T2A1-B: Workbook Part B
 
 ## Q1
-Identify and explain the workings of TWO sorting algorithms and discuss and compare their performance/efficiency (i.e Big O)
 
 #### Linear Search
 
